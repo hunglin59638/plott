@@ -1,0 +1,13 @@
+name: plott
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python>=3.8
+  - nextflow
+  - porechop
+  - filtlong
+  - flye
+  - racon
+  - medaka
