@@ -11,3 +11,18 @@ dependencies:
   - flye
   - racon
   - medaka
+  - homopolish
+  - pip:
+      - scikit-learn==0.21.3
+      - pandas==1.0.1
+      - wget
+      - feather-format>=0.4.1
+      - numpy>=1.18.5
+      - biopython>=1.78
+      - joblib>=0.15.1
+      - requests>=2.24.0
+      - more-itertools>=8.4.0
+      - pycurl
+      - fastani
+      - pysam
+
